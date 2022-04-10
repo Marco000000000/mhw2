@@ -35,6 +35,10 @@ section div img{
    
     margin: 18px 0px;
 }
+.question-name h1 {
+        
+    font-size: 55px;
+}
 .button{
   
     width: 100vw;
