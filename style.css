@@ -27,9 +27,10 @@ section div img{
 .Result div{
     width: 100%;
     align-items: center;
-    padding: 20px;
-    
     justify-content: center;
+}
+.question-name{
+    background-position: center;
 }
 .p{
    
@@ -47,6 +48,9 @@ section div img{
     height: 50px;
     justify-content: center;
     
+}
+#padded{
+    padding:20px;
 }
 .button:hover{
     background-color: #e0e0e0;
